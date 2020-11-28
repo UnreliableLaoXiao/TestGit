@@ -1,4 +1,0 @@
-##Rakefile
-hello test2
-hello test1
-hello test3
